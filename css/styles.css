@@ -51,7 +51,10 @@ button {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
-
+.section {
+  padding-top: 188px;
+  padding-bottom: 188px;
+}
 /* #region header */
 .page-header {
   border-bottom: 1px solid #e7e9fc;
@@ -138,8 +141,6 @@ button {
 /* #region hero */
 
 .hero-container {
-  padding-top: 188px;
-  padding-bottom: 188px;
 }
 
 .hero {
