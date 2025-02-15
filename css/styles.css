@@ -251,6 +251,7 @@ button {
 }
 .team-item {
   background-color: #fff;
+  border-radius: 0px 0px 4px 4px;
 }
 .team-item-title {
   font-weight: 500;
@@ -259,6 +260,8 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-align: center;
+  margin-bottom: 8px;
 }
 .team-item-text {
   font-weight: 400;
@@ -267,6 +270,10 @@ button {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
+  text-align: center;
+}
+.person {
+  padding: 32px 0;
 }
 /* #endregion our team */
 
