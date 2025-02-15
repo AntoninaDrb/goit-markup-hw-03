@@ -52,10 +52,6 @@ button {
   overflow: hidden;
 }
 
-.section {
-  padding: 120px 0;
-}
-
 /* #region header */
 .page-header {
   border-bottom: 1px solid #e7e9fc;
@@ -147,8 +143,6 @@ button {
 }
 
 .hero {
-  padding-top: 188px;
-  padding-bottom: 188px;
   background-color: #2e2f42;
 }
 .hero-title {
@@ -189,7 +183,10 @@ button {
 /* #region advantages */
 .advantages {
 }
-
+.advantages-container {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
 .advantages-title {
   font-weight: 700;
   font-size: 36px;
