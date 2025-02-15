@@ -182,6 +182,8 @@ button {
 
 /* #region advantages */
 .advantages {
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 .advantages-container {
   padding-top: 120px;
