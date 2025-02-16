@@ -27,10 +27,6 @@ a {
   text-decoration: none;
 }
 
-.img {
-  display: block;
-}
-
 .container {
   max-width: 1158px;
   padding: 0 15px;
@@ -58,6 +54,10 @@ button {
 .section {
   padding-top: 120px;
   padding-bottom: 120px;
+}
+
+.img {
+  display: block;
 }
 /* #region header */
 .page-header {
@@ -151,6 +151,7 @@ button {
 
 .hero {
   background-color: #2e2f42;
+  padding: 188px 0;
 }
 .hero-title {
   font-weight: 700;
