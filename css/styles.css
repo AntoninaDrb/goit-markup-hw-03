@@ -147,8 +147,6 @@ img {
 /* #region hero */
 
 .hero-container {
-  padding-top: 188px;
-  padding-bottom: 188px;
 }
 
 .hero {
@@ -193,13 +191,8 @@ img {
 
 /* #region advantages */
 .advantages {
-  padding-top: 120px;
-  padding-bottom: 120px;
 }
-.advantages-container {
-  padding-top: 120px;
-  padding-bottom: 120px;
-}
+
 .advantages-title {
   font-weight: 700;
   font-size: 36px;
@@ -235,11 +228,6 @@ img {
 /* #endregion advantages */
 
 /* #region our team */
-
-.team-container {
-  padding-top: 120px;
-  padding-bottom: 120px;
-}
 
 .team {
   background-color: #f4f4fd;
@@ -291,13 +279,6 @@ img {
 
 /* #region our portfolio */
 .portfolio {
-  padding-top: 120px;
-  padding-bottom: 120px;
-}
-
-.portfolio-container {
-  padding-top: 120px;
-  padding-bottom: 120px;
 }
 
 .portfolio-title {
@@ -346,7 +327,7 @@ img {
   background-color: #2e2f42;
   padding: 100px 0;
 }
-.footer-link {
+.footer-logo {
   display: inline-block;
   margin-bottom: 16px;
 }
@@ -358,4 +339,4 @@ img {
   color: #f4f4fd;
   max-width: 264px;
 }
-/* #refion footer */
+/* #endrefion footer */
