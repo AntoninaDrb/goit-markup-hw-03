@@ -153,6 +153,7 @@ button {
   background-color: #2e2f42;
   padding: 188px 0;
 }
+
 .hero-title {
   font-weight: 700;
   font-size: 56px;
@@ -240,6 +241,8 @@ button {
 
 .team {
   background-color: #f4f4fd;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 
 .team-title {
